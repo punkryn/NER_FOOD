@@ -1,6 +1,6 @@
 # HanBert-NER
 
-- [Hanbert Ner Master](https://github.com/monologg/HanBert-NER) 을 참고하였음
+- [Hanbert Ner Master](https://github.com/monologg/HanBert-NER) 을 참고하였음 **
 - HanBert 이용한 한국어 Named Entity Recognition Task + Food Tag
 - Huggingface Tranformers 라이브러리를 이용하여 구현
 
@@ -25,9 +25,9 @@
 ## Results
 
 ![confusion_matrix06](https://user-images.githubusercontent.com/22855979/132113600-e8565330-f1a8-4f06-8d28-1d6ea420d217.png)
-![image](https://user-images.githubusercontent.com/22855979/132115393-c7e59f6d-e09e-4d87-b6e5-a8b950d44de4.png)
+![image](https://user-images.githubusercontent.com/22855979/132115423-4064079f-183b-4dcb-99cd-f6f5ca238121.png)
 
-F1 = 0.81 loss = 3.78
+F1Score = 0.90 loss = 0.34
 
 
 ## References
